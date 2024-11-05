@@ -1,4 +1,4 @@
-# React Shopping Cart Project - Deliverables
+# React Shopping Cart Project
 
 ## Project Overview
 A React application that displays a list of products fetched from a fake API, allowing each product to be individually selected and added to a shopping cart. Users can manage item quantities in the cart, with real-time updates to the total cost based on items and quantities.
